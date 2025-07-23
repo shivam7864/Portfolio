@@ -124,7 +124,7 @@ export const SkillsInfo = [
       img: tapmybackLogo,
       role: "Junior Software Developer",
       company: "Tap My Back - Employee Recognition Software",
-      date: "February 2025 - Present",
+      date: "October 2024 - Present",
       desc: "Redesigned and optimized the user interface using React and Material-UI (MUI) to improve user experience and engagement. • Developed and maintained scalable features using Meteor (Node.js) for the backend and React for the frontend. • Implemented complex data aggregation logic and interactive charts to display user engagement insights dynamically. • Optimized API calls, database queries (MongoDB), and frontend rendering for better application performance. • Built and integrated new functionalities based on customer feedback, enhancing the platform’s employee recognition capabilities. • Followed best coding practices, implemented reusable components, and contributed to improving the overall codebase structure.",
       skills: [
         "HTML",
@@ -137,23 +137,23 @@ export const SkillsInfo = [
         "Material UI"
       ],
     },
-    {
-      id: 1,
-      img: vaidikLogo,
-      role: "Subject Matter Expert",
-      company: "Vaidik Eduservices Private Limited",
-      date: "October 2024 - January 2025",
-      desc: "Expertise in providing accurate and detailed solutions to complex questions. • Skilled at breaking down problems for better understanding and clarity. • Experienced in delivering high-quality, reliable answers promptly.",
-      skills: [
-        "ReactJS",
-        "NodeJS",
-        "JavaScript",
-        "Operating System",
-        "OOPS",
-        "DBMS",
-        "SQL",
-      ],
-    },
+    // {
+    //   id: 1,
+    //   img: vaidikLogo,
+    //   role: "Subject Matter Expert",
+    //   company: "Vaidik Eduservices Private Limited",
+    //   date: "October 2024 - January 2025",
+    //   desc: "Expertise in providing accurate and detailed solutions to complex questions. • Skilled at breaking down problems for better understanding and clarity. • Experienced in delivering high-quality, reliable answers promptly.",
+    //   skills: [
+    //     "ReactJS",
+    //     "NodeJS",
+    //     "JavaScript",
+    //     "Operating System",
+    //     "OOPS",
+    //     "DBMS",
+    //     "SQL",
+    //   ],
+    // },
   ];
   
   export const education = [
